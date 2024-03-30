@@ -1,5 +1,5 @@
 import json
-
+from typing import Optional
 from models.places import PlaceModel
 
 
@@ -34,3 +34,7 @@ class PlacesService:
                 ]
 
         return result
+
+    def get_place(self, place_id: int) -> Optional[PlaceModel]:
+        result = [place for place in self.get_places() if place.id == place_id]
+        return result[0] if len(result) > 0 else None

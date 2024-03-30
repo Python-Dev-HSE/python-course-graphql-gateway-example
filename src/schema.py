@@ -37,6 +37,7 @@ class Place(graphene.ObjectType):
     Тип объекта любимого места.
     """
 
+    id = graphene.Int()
     latitude = graphene.Float()
     longitude = graphene.Float()
     description = graphene.String()
@@ -68,12 +69,19 @@ class Query(graphene.ObjectType):
     """
 
     places = graphene.List(Place)
+    place = graphene.Field(Place, place_id=graphene.Int())
 
     @staticmethod
     def resolve_places(
         parent: Optional[dict], info: ResolveInfo  # pylint: disable=unused-argument
     ) -> list[PlaceModel]:
         return PlacesService().get_places()
+
+    @staticmethod
+    def resolve_place(
+            parent: Optional[dict], info: ResolveInfo, place_id: int,  # pylint: disable=unused-argument
+    ) -> PlaceModel:
+        return PlacesService().get_place(place_id)
 
 
 schema = Schema(query=Query)
