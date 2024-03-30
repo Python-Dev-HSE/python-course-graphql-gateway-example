@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "RTE.ie",
+      "title": "Sunak tells Stormont leaders 'real work starts now' - RTE.ie",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnJ0ZS5pZS9uZXdzLzIwMjQvMDIwNS8xNDMwNTM4LXN0b3Jtb250L9IBH2h0dHBzOi8vYW1wLnJ0ZS5pZS9hbXAvMTQzMDUzOC8?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-02-05T14:17:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Guardian",
+      "title": "Cern aims to build \u20ac20bn atom-smasher to unlock secrets of universe - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zY2llbmNlLzIwMjQvZmViLzA1L2Nlcm4tYXRvbS1zbWFzaGVyLXVubG9jay1zZWNyZXRzLXVuaXZlcnNlLWxhcmdlLWhhZHJvbi1jb2xsaWRlctIBb2h0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9zY2llbmNlLzIwMjQvZmViLzA1L2Nlcm4tYXRvbS1zbWFzaGVyLXVubG9jay1zZWNyZXRzLXVuaXZlcnNlLWxhcmdlLWhhZHJvbi1jb2xsaWRlcg?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-02-05T13:42:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "RTE.ie",
+      "title": "Dad's Army star Ian Lavender has died at the age of 77 - RTE.ie",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnJ0ZS5pZS9lbnRlcnRhaW5tZW50LzIwMjQvMDIwNS8xNDMwNTY2LWRhZHMtYXJteS1zdGFyLWlhbi1sYXZlbmRlci1oYXMtZGllZC1hdC10aGUtYWdlLW9mLTc3L9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-02-05T13:18:45Z",
+      "content": null
+    }
+  ]
+}
