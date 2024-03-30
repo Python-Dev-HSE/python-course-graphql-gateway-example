@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Espreso",
+      "title": "AKO IMATE OVE PROMENE NA KO\u017dI ODMAH SE JAVITE LEKARU: Obi\u010dno se javljaju kod ljudi STARIJIH OD 50 GODINA - Espreso",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmVzcHJlc28uY28ucnMvbGlmZXN0eWxlL3pkcmF2bGplLzE0MjU1MzAvYWtvLWltYXRlLW92ZS1wcm9tZW5lLW5hLWtvemktb2RtYWgtc2UtamF2aXRlLWxla2FyddIBWmh0dHBzOi8vd3d3LmVzcHJlc28uY28ucnMvYW1wLzE0MjU1MzAvYWtvLWltYXRlLW92ZS1wcm9tZW5lLW5hLWtvemktb2RtYWgtc2UtamF2aXRlLWxla2FydQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-02-05T14:22:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Benchmark",
+      "title": "Apple savitljivi telefon mo\u017eda vidimo izme\u0111u 2026. i 2027. godine - Benchmark",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYmVuY2htYXJrLnJzL3Zlc3RpL3VyZWRhamkvYXBwbGUtc2F2aXRsaml2aS10ZWxlZm9uLW1vemRhLXZpZGltby1pem1lZHUtMjAyNi1pLTIwMjctZ29kaW5lL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-02-05T14:11:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Blic.rs",
+      "title": "\"BLIC\" SAZNAJE: HBO \u0107e Bikovi\u0107u isplatiti ceo honorar za \"White Lotus\", ODU\u0160EVI\u0106E VAS kada budete saznali kome glumac daje ceo iznos - Blic.rs",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmJsaWMucnMvemFiYXZhL2hiby1jZS1iaWtvdmljdS1pc3BsYXRpdGktY2VvLWhvbm9yYXItemEtd2hpdGUtbG90dXMtZXZvLWtvbWUtZ2x1bWFjLWRhamUtY2Vsb2t1cGFuL2NnNjl3ejnSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-02-05T14:08:44Z",
+      "content": null
+    }
+  ]
+}
