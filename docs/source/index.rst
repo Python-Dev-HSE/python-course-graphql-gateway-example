@@ -34,7 +34,7 @@ GraphQL API Gateway
 
     .. code-block:: console
 
-        git clone https://github.com/ctpemho7/python-course-graphql-gateway-example.git
+        git clone https://github.com/MNV/python-course-graphql-gateway-example.git
 
 Перед началом использования приложения необходимо его сконфигурировать.
 
